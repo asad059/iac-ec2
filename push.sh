@@ -7,7 +7,7 @@ UPDATE_TEXT="This is an automated update."
 COMMIT_MESSAGE="Automated update to $FILE_PATH"
 
 # Personal Access Token (replace YOUR_TOKEN with your actual token)
-TOKEN="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"
+TOKEN="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"
 
 # Change directory to the Git repository
 cd "$REPO_PATH" || { echo "Error: Unable to change directory to $REPO_PATH"; exit 1; }
